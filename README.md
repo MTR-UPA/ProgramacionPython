@@ -1,2 +1,1 @@
-# ProgramacionPython
-Metodología de la programación
+# Metodología de la programación
